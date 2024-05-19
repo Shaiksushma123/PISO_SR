@@ -34,3 +34,5 @@ end process;
 end Behavioral;
 ~~~
 
+### Output:
+![Screenshot 2024-05-19 175030](https://github.com/Shaiksushma123/PISO_SR/assets/159005642/ad5523b3-a3fc-4f54-b673-eeef2e08ae9a)
